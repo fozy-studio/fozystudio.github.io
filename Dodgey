@@ -355,4 +355,4 @@
     window.addEventListener("focus",()=>{ if(!gameRunning && score>0) startGame(); });
   </script>
 </body>
-</html>
+</html> 
